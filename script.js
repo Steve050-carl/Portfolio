@@ -14,7 +14,7 @@ document.getElementById("hireForm").addEventListener("submit", function(e) {
   }
 
   // EmailJS integration
-  emailjs.send("service_e8jkk3f", "template_mkgx7st", {
+  emailjs.send("service_e8jkk3f", "template_fu1h048", {
     from_name: name,
     from_email: email,
     message: message,
